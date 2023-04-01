@@ -1,6 +1,6 @@
 # vpython
 
-\textbf{Exemplo 1}
+**Exemplo 1**
 
 Uma pedra é deixada cair em um rio a partir de uma ponte situada $43,9 m$ acima da água. Outra
 pedra é atirada verticalmente para baixo 1,0 s após a primeira ter sido deixada cair. As pedras atingem a água ao mesmo tempo. 
