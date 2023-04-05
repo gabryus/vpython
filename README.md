@@ -1,7 +1,7 @@
 
 <span align="center">
   
-##  VPython 
+##  Exercícios de física aplicados ao VPython
   
 </span>
 
@@ -24,3 +24,10 @@ Na Fig. abaixo, uma pedra é lançada para o alto de um rochedo de altura $h$ co
 <img src="https://github.com/gabryus/vpython/blob/main/imagens/exemplo2.png" width="700px" />
 </div>
 https://github.com/gabryus/vpython/blob/main/scripts/exemplo2.py
+
+**Exemplo 3**
+Distância de freada. <br>
+(a) Se o coeficiente de atrito cinético entre os pneus e um pavimento seco for de 0,80, qual é a menor distância para fazer um carro parar travando o freio, quando o carro se desloca a 28,7 m/s? <br>
+(b) Sobre um pavimento molhado, o coeficiente de atrito cinético se reduz a 0,25. A que velocidade você poderia dirigir no pavimento molhado para que o carro parasse na mesma distância calculada em (a)? <br>
+(Nota: travar os freios não é a maneira mais segura de parar.)
+https://github.com/gabryus/vpython/blob/main/scripts/exemplo3.py
