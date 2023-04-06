@@ -1,7 +1,7 @@
 
 <span align="center">
   
-##  Exercícios de física aplicados ao VPython
+##  Exercícios de física básica aplicados ao VPython
   
 </span>
 
@@ -17,12 +17,10 @@ https://github.com/gabryus/vpython/blob/main/scripts/exemplo1.py
 <br>
 Na Fig. abaixo, uma pedra é lançada para o alto de um rochedo de altura $h$ com uma velocidade inicial de $42,0 \ m/s$ e um ângulo $\theta = 60,0°$ com a horizontal. A pedra cai em um ponto A, $5,50 \ s$ após o lançamento. <br>
 (a) Determine a altura h do rochedo. <br>
-(b) a velocidade da pedra imediatamente antes do impacto em A.<br>
-(c) a altura máxima H alcançada acima do solo.<br>
+(b) Determine a velocidade da pedra imediatamente antes do impacto em A.<br>
+(c) Determine a altura máxima H alcançada acima do solo.<br>
 
-<div align="center">
-<img src="https://github.com/gabryus/vpython/blob/main/imagens/exemplo2.png" width="700px" />
-</div>
+<img src="https://github.com/gabryus/vpython/blob/main/imagens/exemplo2.png" width="700px" /> <br>
 https://github.com/gabryus/vpython/blob/main/scripts/exemplo2.py
 
 
